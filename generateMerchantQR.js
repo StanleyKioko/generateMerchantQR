@@ -63,7 +63,7 @@ async function generateMerchantQR(req, res) {
   }
 }
 
-// COMPLETE EXPORTS - All functions properly exported
+// All functions properly exported
 module.exports = { 
   // Core M-Pesa functions
   triggerSTKPush, 
